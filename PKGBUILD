@@ -11,6 +11,7 @@ license=('BSD')
 
 ros_makedepends=(
 	ros-melodic-catkin
+	ros-melodic-cpp-common
 )
 
 makedepends=(

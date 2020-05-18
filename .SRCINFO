@@ -8,6 +8,7 @@ pkgbase = ros-melodic-roslz4
 	makedepends = cmake
 	makedepends = ros-build-tools
 	makedepends = ros-melodic-catkin
+	makedepends = ros-melodic-cpp-common
 	makedepends = lz4
 	depends = lz4
 	source = ros-melodic-roslz4-1.14.5.tar.gz::https://github.com/ros/ros_comm/archive/1.14.5.tar.gz
