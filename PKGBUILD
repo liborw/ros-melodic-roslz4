@@ -28,7 +28,7 @@ depends=(
 	lz4
 )
 
-_dir="ros_comm-${pkgver}/roslz4"
+_dir="ros_comm-${pkgver}/utilities/roslz4"
 source=("${pkgname}-${pkgver}.tar.gz"::"https://github.com/ros/ros_comm/archive/${pkgver}.tar.gz")
 sha256sums=('49849315ca55247c656a5a50cd5caa5f33f7d212766ff09b62eae48f1dc6c3e7')
 
